@@ -118,7 +118,7 @@ input[name="delay"]:hover{
   border: 1px solid #000;
 }
 
- input[name="delay"].rt:focus{
+ input[name="delay"]:focus{
   border: 1px solid #4E75FF;
 }
 input[name="delay"]{
